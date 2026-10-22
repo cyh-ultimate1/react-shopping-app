@@ -3,7 +3,7 @@
 A shopping app built with React and TypeScript, made as a hands-on learning project.
 Browse and search products, view details, manage a cart, and check out.
 
-**Live demo:** [<your-vercel-url>](https://react-shopping-app-sigma.vercel.app/)
+**Live demo:** [Demo site](https://react-shopping-app-sigma.vercel.app/)
 
 ## Features
 
